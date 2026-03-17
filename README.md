@@ -15,7 +15,7 @@ For Now, I am Learning Web Development.
 ♦️Web Development: Html, CSS And JavaScript.
 
 ### 🎨 Languages:
-🟢 Python. &nbsp;&nbsp; 🟢 Html. &nbsp;&nbsp; 🟢 CSS. &nbsp;&nbsp; 🟢 JavaScript.
+🟢 Python.&nbsp;🟢 Html.&nbsp;&nbsp;🟢 CSS.&nbsp;&nbsp;🟢 JavaScript.
 
 🪁My Interests:
 
