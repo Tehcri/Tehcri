@@ -14,13 +14,8 @@ For Now, I am Learning Web Development.
 ♦️Graphic Designing: Using Photoshop Mainly.
 ♦️Web Development: Html, CSS And JavaScript.
 
-🎨Languages:
-
-🟢Python.
-🟢Html. 
-🟢CSS.
-🟢JavaScript.
-
+### 🎨 Languages:
+🟢 Python. &nbsp;&nbsp; 🟢 Html. &nbsp;&nbsp; 🟢 CSS. &nbsp;&nbsp; 🟢 JavaScript.
 
 🪁My Interests:
 
