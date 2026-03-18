@@ -31,8 +31,10 @@ For Now, I am Learning Web Development.
 
 I've Been A Top Student My Whole Life.
 I Absoulutely LOVE Cricket, I am Always Checking Latest Cricket News!
+---
+#📈📊Githun Stats:
 
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 
 <!--
 **Tehcri/Tehcri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
