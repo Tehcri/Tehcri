@@ -41,9 +41,3 @@ I Absoulutely LOVE Cricket, I am Always Checking Latest Cricket News!
  
 
 
-# 📈📊Github Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Tehcri&show_icons=true&theme=dark)
-![](https://nirzak-streak-stats.vercel.app/?user=Tehcri&theme=dark&hide_border=true)<br/>
-
-
